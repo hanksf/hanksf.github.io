@@ -34,7 +34,7 @@ investment.
 **The Response to Shocks in (S,s) Models with Drift** with Matias Bayas-Erazo
 Abstract: Using recent advances in the study of partial differential equations, we
 provide an analytical characterisation of the impact of a shock in an (S,s) model with drift.
-This result has applications to studying ination in models with menu costs and investment
+This result has applications to studying inaction in models with menu costs and investment
 behaviour in models with fixed costs of investment.
 
 
