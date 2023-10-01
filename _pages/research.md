@@ -9,7 +9,7 @@ Working Papers
 =====
 
 **The Role of Demographics in Cross-Cohort Lifetime Income Differences** with Laura Murphy
-Brief abstract: We study how demographic changes in the US affect men’s lifetime incomes
+Abstract: We study how demographic changes in the US affect men’s lifetime incomes
 through career spillovers. American men’s lifetime median incomes have followed a hump shaped
 pattern: rising with each cohort entering the labour market from the late 1950s
 until the 1970s, and subsequently falling. The start of decline coincides with the entry
@@ -23,7 +23,7 @@ observed in the data. We also show the promotion mechanism is consistent with se
 other cross-cohort empirical facts.
 
 **The Joint Dynamics of Labour and Capital** with Matias Bayas-Erazo
-Brief abstract: Models of lumpy capital adjustment are too responsive to interest rates
+Abstract: Models of lumpy capital adjustment are too responsive to interest rates
 relative to empirical evidence. We argue that allowing for small convex adjustment costs in
 labour can help these models better match the data. Convex costs cause labour to increase
 slowly in response to a shock thus smoothing out the impact on the marginal product of
@@ -32,7 +32,7 @@ the benefits of additional capital can have a large impact on the responsiveness
 investment.
 
 **The Response to Shocks in (S,s) Models with Drift** with Matias Bayas-Erazo
-Brief abstract: Using recent advances in the study of partial differential equations, we
+Abstract: Using recent advances in the study of partial differential equations, we
 provide an analytical characterisation of the impact of a shock in an (S,s) model with drift.
 This result has applications to studying ination in models with menu costs and investment
 behaviour in models with fixed costs of investment.
