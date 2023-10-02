@@ -14,4 +14,4 @@ I study the macroeconomics of labour markets.
 
 My job market paper is titled "Skill Biased Reallocation" (draft coming soon)
 
-[CV][hanksf.github.io/files/Fergal_Hanks_CV.pdf]
+[CV](hanksf.github.io/files/Fergal_Hanks_CV.pdf)
