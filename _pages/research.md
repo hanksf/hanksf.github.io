@@ -8,7 +8,7 @@ author_profile: true
 Working Papers
 =====
 
-**The Role of Demographics in Cross-Cohort Lifetime Income Differences** with [Laura Murphy](https://www.lauracharlottemurphy.com/)
+**The Role of Demographics in Cross-Cohort Lifetime Income Differences** with [Laura Murphy](https://www.lauracharlottemurphy.com/) 
 
 Abstract: We study how demographic changes in the US affect men’s lifetime incomes
 through career spillovers. American men’s lifetime median incomes have followed a hump shaped
@@ -24,6 +24,8 @@ observed in the data. We also show the promotion mechanism is consistent with se
 other cross-cohort empirical facts.
 
 **The Joint Dynamics of Labour and Capital** with [Matias Bayas-Erazo](https://matiasbayas-erazo.com/)
+
+[draft](https://hanksf.github.io/files/labour_capital.pdf)
 
 Abstract: Models of lumpy capital adjustment are too responsive to interest rates
 relative to empirical evidence. We argue that allowing for small convex adjustment costs in
