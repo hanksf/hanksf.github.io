@@ -12,7 +12,9 @@ Welcome to my website. I am a 6th year Economics PhD student at Northwestern Uni
 
 I study the macroeconomics of labour markets.
 
-My job market paper is titled **Skill Biased Reallocation** [draft](https://hanksf.github.io/files/skill_biased_reallocation.pdf)
+My job market paper is
+
+**Skill Biased Reallocation** [draft](https://hanksf.github.io/files/skill_biased_reallocation.pdf)
 
 Abstract: Workers displaced by the reallocation of labour demand across industries are more likely to be unemployed but does this impact aggregate unemployment?
 In this paper I argue that industry specific skill and the substitutability between workers of different skill levels are key determinants of the impact.
