@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fergal Hanks"
 title_separator          : "-"
 name                     : &name "Fergal Hanks"
-description              : &description "5th Year Economics PhD Student studying macrolabour"
+description              : &description "6th Year Economics PhD Student studying macro-labour"
 url                      : https://hanksf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hanksf/hanksf.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "fergalhanks2024 at northwestern.edu"
+  email            : "fergalhanks2024@northwestern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
