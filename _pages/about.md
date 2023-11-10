@@ -23,3 +23,5 @@ Subsidies for vacancy posting can reduce this rise but only when targeted by ski
 
 
 [CV](https://hanksf.github.io/files/Fergal_Hanks_CV.pdf)
+
+My email is [fergalhanks2024@u.northwestern.edu](mailto:fergalhanks2024@u.northwestern.edu)
