@@ -27,7 +27,7 @@ of the baby boomers who represent a structural break in the size of incoming coh
 The availability of higher-compensated management tasks increases with the number of
 lower ranked (younger) workers. So, a larger cohort of workers will increase (decrease)
 the opportunities of their predecessors(successors), in contrast to the symmetric effect
-predicted by traditional models.We utilize a simple model to show cross-cohort differences
+predicted by traditional models. We utilize a simple model to show cross-cohort differences
 in promotions to higher rank jobs can account for the shape of lifetime median incomes
 observed in the data. We also show the promotion mechanism is consistent with several
 other cross-cohort empirical facts.
