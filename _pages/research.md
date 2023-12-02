@@ -19,6 +19,8 @@ A policy of subsidies for vacancy posting can reduce this rise but only when tar
 
 **The Role of Demographics in Cross-Cohort Lifetime Income Differences** with [Laura Murphy](https://www.lauracharlottemurphy.com/) 
 
+[draft](https://hanksf.github.io/files/Demo_wages.pdf)
+
 Abstract: We study how demographic changes in the US affect men’s lifetime incomes
 through career spillovers. American men’s lifetime median incomes have followed a hump shaped
 pattern: rising with each cohort entering the labour market from the late 1950s
