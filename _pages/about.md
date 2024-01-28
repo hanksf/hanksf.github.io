@@ -21,8 +21,6 @@ This paper quantifies the aggregate unemployment implications of a reallocation 
 I develop a search and matching model with multiple industries and industry specific skill that is calibrated to the US economy.
 In the model a reallocation shock leads to up to a 0.8 percentage points rise in unemployment.
 The combination of industry specific skill and the substitutability between workers of different skill levels are key to this result.
-A policy of subsidies for vacancy posting can reduce this rise but only when targeted by skill level.
-
 
 [CV](https://hanksf.github.io/files/Fergal_Hanks_CV.pdf)
 
