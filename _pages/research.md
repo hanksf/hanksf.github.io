@@ -15,9 +15,10 @@ This paper quantifies the aggregate unemployment implications of a reallocation 
 I develop a search and matching model with multiple industries and industry specific skill that is calibrated to the US economy.
 In the model a reallocation shock leads to up to a 0.8 percentage points rise in unemployment.
 The combination of industry specific skill and the substitutability between workers of different skill levels are key to this result.
-A policy of subsidies for vacancy posting can reduce this rise but only when targeted by skill level.
 
 **The Role of Demographics in Cross-Cohort Lifetime Income Differences** with [Laura Murphy](https://www.lauracharlottemurphy.com/) 
+
+[draft](https://hanksf.github.io/files/Demo_wages.pdf)
 
 Abstract: We study how demographic changes in the US affect men’s lifetime incomes
 through career spillovers. American men’s lifetime median incomes have followed a hump shaped
