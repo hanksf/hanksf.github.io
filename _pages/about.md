@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website. I am a Postdoc at the University of Cambridge. I graduated from Northwestern University in 2024.
+Welcome to my website. I am a Postdoc at the Janeway Institute at the University of Cambridge. I graduated from Northwestern University in 2024.
 
 I study the macroeconomics of labour markets.
 
