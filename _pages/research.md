@@ -33,17 +33,13 @@ in promotions to higher rank jobs can account for the shape of lifetime median i
 observed in the data. We also show the promotion mechanism is consistent with several
 other cross-cohort empirical facts.
 
-**The Joint Dynamics of Labour and Capital** with [Matias Bayas-Erazo](https://matiasbayas-erazo.com/)
+**Heterogenous Firms and the Dynamics of Investment** with [Matias Bayas-Erazo](https://matiasbayas-erazo.com/)
 
-[draft](https://hanksf.github.io/files/labour_capital.pdf)
+[Updated draft coming soon]
 
-Abstract: Models of lumpy capital adjustment are too responsive to interest rates
-relative to empirical evidence. We argue that allowing for small convex adjustment costs in
-labour can help these models better match the data. Convex costs cause labour to increase
-slowly in response to a shock thus smoothing out the impact on the marginal product of
-capital. Due to both depreciation and uncertainty over future productivity, this delay in
-the benefits of additional capital can have a large impact on the responsiveness of capital
-investment.
+Abstract: We show that standard heterogeneous firm models of investment feature investment responses that decrease steadily after a shock as positive relationship between the magnitude of the initial response to a
+shock and the speed of convergence of capital. This is inconsistent with the hump shaped responses found in the data. To resolve this tension tension we add stochastic time to build to the standard model. This
+feature generates hump shaped responses and enables the model to match micro moments of investment as well as the response dynamics.
 
 **The Response to Shocks in (S,s) Models with Drift** with [Matias Bayas-Erazo](https://matiasbayas-erazo.com/)
 
