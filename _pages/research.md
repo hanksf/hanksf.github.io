@@ -36,6 +36,7 @@ other cross-cohort empirical facts.
 **Heterogenous Firms and the Dynamics of Investment** with [Matias Bayas-Erazo](https://matiasbayas-erazo.com/)
 
 [draft](https://hanksf.github.io/files/Het_firms_investment.pdf)
+
 Abstract: We show that standard heterogeneous firm models of investment feature investment responses that decrease steadily after a shock as positive relationship between the magnitude of the initial response to a
 shock and the speed of convergence of capital. This is inconsistent with the hump shaped responses found in the data. To resolve this tension tension we add stochastic time to build to the standard model. This
 feature generates hump shaped responses and enables the model to match micro moments of investment as well as the response dynamics.
