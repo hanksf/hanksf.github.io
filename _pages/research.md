@@ -8,7 +8,7 @@ author_profile: true
 Working Papers
 =====
 
-**Skill Biased Reallocation** (JMP) [draft](https://hanksf.github.io/files/skill_biased_reallocation.pdf)
+**Skill Biased Reallocation** [draft](https://hanksf.github.io/files/skill_biased_reallocation.pdf)
 
 Abstract: Workers displaced by the reallocation of labour demand across industries suffer persistent earnings losses, in a large part due to higher unemployment risk.
 This paper quantifies the aggregate unemployment implications of a reallocation of labour demand.
