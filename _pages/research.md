@@ -10,11 +10,7 @@ Working Papers
 
 **Skill Biased Reallocation** [draft](https://hanksf.github.io/files/skill_biased_reallocation.pdf)
 
-Abstract: Workers displaced by the reallocation of labour demand across industries suffer persistent earnings losses, in a large part due to higher unemployment risk.
-This paper quantifies the aggregate unemployment implications of a reallocation of labour demand.
-I develop a search and matching model with multiple industries and industry specific skill that is calibrated to the US economy.
-In the model a reallocation shock leads to up to a 0.8 percentage points rise in unemployment.
-The combination of industry specific skill and the substitutability between workers of different skill levels are key to this result.
+Abstract: Workers displaced by the reallocation of labor demand across industries suffer persistent earnings losses, in large part due to higher unemployment risk. This paper quantifies the aggregate unemployment implications of a reallocation of labor demand. I develop a search and matching model with multiple industries and industry specific skill that is calibrated to the US economy. In the model a reallocation shock leads to up to a 0.5 percentage points rise in unemployment. The combination of industry specific skill and imperfect substitutability between workers of different skill levels are key to this result.
 
 **The Role of Demographics in Cross-Cohort Lifetime Income Differences** with [Laura Murphy](https://www.lauracharlottemurphy.com/) 
 
