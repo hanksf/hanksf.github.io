@@ -33,8 +33,8 @@ other cross-cohort empirical facts.
 
 Updated Draft Coming Soon
 
-Abstract: We show that standard heterogeneous firm models of investment feature investment responses that decrease steadily after a shock as positive relationship between the magnitude of the initial response to a
-shock and the speed of convergence of capital. This is inconsistent with the hump shaped responses found in the data. To resolve this tension tension we add stochastic time to build to the standard model. This
+Abstract: We show that standard heterogeneous firm models of investment feature investment responses that decrease steadily after a shock and a positive relationship between the magnitude of the initial response to a
+shock and the speed of convergence of capital. This is inconsistent with the hump shaped responses found in the data. To resolve this tension we add stochastic time to build to the standard model. This
 feature generates hump shaped responses and enables the model to match micro moments of investment as well as the response dynamics.
 
 **The Response to Shocks in (S,s) Models with Drift** with [Matias Bayas-Erazo](https://matiasbayas-erazo.com/)
