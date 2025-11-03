@@ -8,6 +8,12 @@ author_profile: true
 Working Papers
 =====
 
+**Complementarity, Heterogeneity, and Multipliers: Utility for HANK** with [Florin Bilbiie](https://sites.google.com/site/florinbilbiie/home) and [Sean Lavender](https://seanlavender.github.io/)
+
+[CEPR Working Paper](https://cepr.org/system/files/publication-files/DP20804.pdf)
+
+Abstract:Complementarity between consumption and work is essential for heterogeneous-agent models' ability to generate realistic multiplier effects from aggregate demand shocks, while avoiding puzzling predictions. We show how parameterizing complementarity — in the spirit of Frisch's "utility acceleration"— separately from income effects is necessary to achieve both. HANK models equipped with such complementarity deliver plausible fiscal multipliers and simultaneously resolve two key challenges in the literature: a "trilemma" of matching marginal propensities to earn (MPEs) and to consume (MPCs), and a Catch-22 "dilemma" of resolving the forward guidance puzzle. We establish these results analytically in a tractable HANK framework and confirm them in a calibrated quantitative HANK model. Standard utility functions, however, constrain either complementarity or income effects — or both — thereby forcing multipliers to depend exclusively on one or the other. We introduce two flexible parametric forms that allow arbitrary, independent calibration of complementarity and income effects: a quasi-separable "GHH-CRRA" utility and a "CCRRA" (constant complementarity and relative risk aversion) specification.
+
 **Skill Biased Reallocation** [draft](https://hanksf.github.io/files/skill_biased_reallocation.pdf)
 
 Abstract: Workers displaced by the reallocation of labor demand across industries suffer persistent earnings losses, in large part due to higher unemployment risk. This paper quantifies the aggregate unemployment implications of a reallocation of labor demand. I develop a search and matching model with multiple industries and industry specific skill that is calibrated to the US economy. In the model a reallocation shock leads to up to a 0.5 percentage points rise in unemployment. The combination of industry specific skill and imperfect substitutability between workers of different skill levels are key to this result.
