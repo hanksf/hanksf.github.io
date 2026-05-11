@@ -43,11 +43,9 @@ Abstract: We show that standard heterogeneous firm models of investment feature 
 shock and the speed of convergence of capital. This is inconsistent with the hump shaped responses found in the data. To resolve this tension we add stochastic time to build to the standard model. This
 feature generates hump shaped responses and enables the model to match micro moments of investment as well as the response dynamics.
 
-**The Response to Shocks in (S,s) Models with Drift** with [Matias Bayas-Erazo](https://matiasbayas-erazo.com/)
+**Capital, Intangibles, and Financial Frictions** with [Joao Monterio](https://sites.google.com/view/joao-cmonteiro/)
 
-Abstract: Using recent advances in the study of partial differential equations, we
-provide an analytical characterisation of the impact of a shock in an (S,s) model with drift.
-This result has applications to studying inaction in models with menu costs and investment
-behaviour in models with fixed costs of investment.
+[draft](https://joao-cmonteiro.github.io/website/intangibles-paper.pdf)
 
+Abstract: How do financial frictions shape firms’ investment in intangible capital? We show that financial constraints distort firms’ input choices, leading to systematic underinvestment in intangible assets. Exploiting an investment subsidy in Portugal that lowered the cost of both physical and intangible capital while keeping their relative price unchanged, we find that treated firms reduced their capital-to-intangible ratio by 12 percent, with larger effects for financially constrained firms. The distribution of treatment effects declines sharply across percentiles - firms with higher initial capital-to-intangible ratios adjust the most - revealing the signature of a binding financial wedge. Going beyond average effects, we recover the entire cross-sectional distribution of wedges between the marginal rate of technical substitution and the price ratio. The recovered distribution corresponds to the least distorted economy consistent with the data, showing that only a small share of firms are unconstrained while roughly one-quarter face wedges exceeding twenty percent - providing a direct quantitative map of financial distortions in production.
 
